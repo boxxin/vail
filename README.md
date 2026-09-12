@@ -24,9 +24,9 @@ No, this isn't a rat, I'm not a weirdo.
 
 # 📋 Requirements
 
-### Process Hacker 2
+### Process Hacker
 
-You will need **Process Hacker 2** to follow the instructions.
+You will need **Process Hacker** to follow the instructions.
 
 **Download:**
 https://sourceforge.net/projects/processhacker/
@@ -39,9 +39,9 @@ https://sourceforge.net/projects/processhacker/
 
 Download the DLL provided above.
 
-### 2. Open Process Hacker 2
+### 2. Open Process Hacker
 
-Launch **Process Hacker 2** and locate:
+Launch **Process Hacker** and locate:
 
 `VAIL-Win64-Shipping`
 
