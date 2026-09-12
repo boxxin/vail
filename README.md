@@ -49,12 +49,8 @@ Launch **Process Hacker 2** and locate:
 
 Right-click on **VAIL-Win64-Shipping**.
 
-From the context menu, select:
-
-**Inject DLL**
+Hover over Miscellaneous and click "Inject DLL"
 
 Then locate and select the DLL you downloaded.
-
-<img width="416" height="439" alt="Process Hacker DLL injection menu" src="https://github.com/user-attachments/assets/646a87cf-4e85-47a9-94e1-14eb522950" />
 
 
